@@ -1,0 +1,53 @@
+[33mcommit d50b7a2ae8888d22ac835714b680f12424402ed6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Wed Jun 8 23:04:37 2022 +0530
+
+    Update Procfile
+
+[33mcommit 53a850066b88fc966a52cc54c9285c07287357ad[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Wed Jun 8 22:46:30 2022 +0530
+
+    Update app.py
+
+[33mcommit 3f1ad38cdea5742aadd4fcde6a040c188de4d7de[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Wed Jun 8 22:44:33 2022 +0530
+
+    Rename runtime to runtime.txt
+
+[33mcommit 24fdb6ee7ef3f2efc2dbf25452d8930dcbb83bb4[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Wed Jun 8 22:44:05 2022 +0530
+
+    Create runtime
+
+[33mcommit 313c34e44dd223011d005c7e22211fb6ccaf848c[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Thu Jun 2 00:17:55 2022 +0530
+
+    Update Procfile
+
+[33mcommit d0b72808373c6720bdc7d94f0a053c81ab295396[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Thu Jun 2 00:17:36 2022 +0530
+
+    Delete requirements
+
+[33mcommit 46822c3de90be8ed01a898fcbc7df6290b31728e[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Thu Jun 2 00:17:15 2022 +0530
+
+    Update requirements.txt
+
+[33mcommit 094a5f9dc3776c40b50d23ec73e2158bd9faed09[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Thu Jun 2 00:10:48 2022 +0530
+
+    Add files via upload
+
+[33mcommit 763c25d1bb887e0955afbff1980b570337da209f[m
+Author: prashant0708 <89102278+prashant0708@users.noreply.github.com>
+Date:   Thu Jun 2 00:09:04 2022 +0530
+
+    Initial commit
